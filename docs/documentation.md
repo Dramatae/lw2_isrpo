@@ -100,3 +100,14 @@ def perimeter(a, b, c):
     
     return a + b + c
 ```
+
+# История изменения проекта с хешами коммитов
+
+| Хеш | Название коммита |
+|---|---|
+|fbbeaf5 | add funcs description|
+|cc03a08 | add comments triangle.py|
+|11a2166 | add comments square.py|
+|1d4f78e | add comments circle.py|
+|aaf8583 | add general description in documentation|
+|fb4a90d | add files|
